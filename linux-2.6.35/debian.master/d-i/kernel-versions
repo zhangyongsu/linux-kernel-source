@@ -1,0 +1,15 @@
+# arch	version		flavour		installedname			suffix	bdep
+amd64	2.6.35-30	generic		2.6.35-30-generic		-	
+amd64	2.6.35-30	virtual		2.6.35-30-virtual		-	
+
+i386	2.6.35-30	generic		2.6.35-30-generic		-	
+i386	2.6.35-30	generic-pae	2.6.35-30-generic-pae	-	
+i386	2.6.35-30	virtual		2.6.35-30-virtual		-	
+
+armel	2.6.35-30	versatile	2.6.35-30-versatile		-
+armel	2.6.35-30	omap		2.6.35-30-omap		-
+
+# Ports
+# arch	version		flavour		installedname			suffix	bdep
+powerpc	2.6.35-30	powerpc			2.6.35-30-powerpc		-	
+powerpc	2.6.35-30	powerpc64-smp		2.6.35-30-powerpc64-smp	-	
