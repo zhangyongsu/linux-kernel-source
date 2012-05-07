@@ -1,1 +1,1 @@
-test
+test linux-2.6.35
